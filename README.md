@@ -26,10 +26,6 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 ================================================================================
 
-☆ https://t.me/admmanagerfree ☆
+https://t.me/plantinumonline
 =================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_Gato "Su Servidor Chile Viva mi RAZA Hijos de la gran PUTA"
-
-Saludos al grupo Oficial de Whatsapp:
-
-[ FULL SCRIPTS ⃘⃤꙰✰ ] && VPS
+By:~Dw~
