@@ -14,7 +14,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/dw
 
 NEW - ADM - MANAGER ( OFICIAL ) PARA QUE USEN SU GENERADOR DE KEY
 
-apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/pbg2xhipna9cxkf/instalar.sh?dl=0; chmod 777 instalar.sh* && ./instalar.sh*
+apt-get update -y; apt-get upgrade -y; https://www.dropbox.com/s/k4lr0wcq7id7rri/instalar.sh?dl=0; chmod 777 instalar.sh* && ./instalar.sh*
 
 INSTALADOR ALTERNATIVO
 
