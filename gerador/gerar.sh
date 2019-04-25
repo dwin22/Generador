@@ -7,7 +7,7 @@ BARRA="\033[1;36m---------------------------------------------------------------
 echo -e "$BARRA"
 cat << EOF
 
-           NEW KEY GENERATOR BY 8TH
+           NEW KEY GENERATOR By: ~Dw~
            INSTALACOES: $(cat $IVAR)
            
 EOF
